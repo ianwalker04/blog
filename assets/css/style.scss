@@ -6,4 +6,15 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+
+  ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
